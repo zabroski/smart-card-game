@@ -43,7 +43,7 @@ function unFlipCards () {
         firstCard.classList.remove("flip");
         secondCard.classList.remove("flip");
         lockBoard = false;
-    }, 3000)
+    }, 4000)
 
 };
 
